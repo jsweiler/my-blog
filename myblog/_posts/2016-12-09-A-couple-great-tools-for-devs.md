@@ -2,7 +2,7 @@
 layout: post
 title:  "A couple great tools for csharp devs"
 date:   2016-12-09 06:04:29 -0400
-categories: c# tools
+categories: csharp tools
 ---
 ### A couple great tools
 I want to take some time and point out a couple great tools that make my day to day development easier. These work great for C# developers but are not limited to only C# as you will see. 
