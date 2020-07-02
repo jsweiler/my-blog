@@ -2,7 +2,7 @@
 layout: post
 title:  "Use String.Format or string interpolation in csharp"
 date:   2016-03-14 06:04:29 -0400
-categories: c#
+categories: csharp
 ---
 Recently I read the book Writing High-Performance.NET Code by Ben Watson.
 The book gives so many helpful tips to making your code run amazingly fast!
