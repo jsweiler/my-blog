@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Nuget Packages with VS 2017"
 date:   2017-03-30 06:04:29 -0400
-categories: c# nuget packages
+categories: csharp nuget packages
 ---
 #### Visual Studio 2017
 If you haven't tried out [Visual Studio 2017](https://www.visualstudio.com/) yet you really should. It won't take long to install either, they totally redesigned the installer so if you have an SSD you should be ready in 10 minutes. 
