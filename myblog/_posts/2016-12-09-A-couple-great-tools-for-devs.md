@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A couple great tools for C# devs"
+title:  "A couple great tools for csharp devs"
 date:   2016-12-09 06:04:29 -0400
 categories: c# tools
 ---
