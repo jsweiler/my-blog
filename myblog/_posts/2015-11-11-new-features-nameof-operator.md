@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C# 6 new features (nameof operator)"
+title:  "csharp 6 new features (nameof operator)"
 date:   2015-11-11 06:04:29 -0400
 categories: C#
 ---
