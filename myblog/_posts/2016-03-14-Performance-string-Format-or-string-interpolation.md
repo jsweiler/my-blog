@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Use String.Format or string interpolation in csharp"
 date:   2016-03-14 06:04:29 -0400
 categories: c#
 ---
