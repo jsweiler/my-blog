@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C# 6 new features (expression-bodied members)"
+title:  "csharp 6 new features (expression-bodied members)"
 date:   2015-11-11 09:04:29 -0400
 categories: C#
 ---
