@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Don't use async void in your code"
+date:   2016-04-27 06:04:29 -0400
+categories: c# async
+---
 #### Async Code
 So you probably know about [async](https://msdn.microsoft.com/en-us/library/hh156513.aspx) and [await](https://msdn.microsoft.com/en-us/library/hh156528.aspx) the keywords that C# has for quite some time. If you've used them no doubt you love how easy it is to write asynchronous applications, which is true. 
 
