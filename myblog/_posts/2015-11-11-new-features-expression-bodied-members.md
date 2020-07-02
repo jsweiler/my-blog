@@ -2,7 +2,7 @@
 layout: post
 title:  "csharp 6 new features (expression-bodied members)"
 date:   2015-11-11 09:04:29 -0400
-categories: C#
+categories: csharp
 ---
 This is another small feature that I really like because I believe if used properly it can really clean up your code.
 
