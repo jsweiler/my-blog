@@ -2,7 +2,7 @@
 layout: post
 title:  "Async and await in csharp"
 date:   2016-02-20 06:04:29 -0400
-categories: c# async
+categories: csharp async
 ---
 So [async](https://msdn.microsoft.com/en-us/library/hh156513.aspx?f=255&MSPPError=-2147217396) and [await](https://msdn.microsoft.com/en-us/library/hh156528.aspx) are keywords that were introduced with the release of Visual Studio 2012 and C#5. They certainly make asynchronous programming in C# a lot easier but it is important to learn a few things about them before making every method in your codebase async.
 
