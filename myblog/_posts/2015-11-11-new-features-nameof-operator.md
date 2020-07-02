@@ -2,7 +2,7 @@
 layout: post
 title:  "csharp 6 new features (nameof operator)"
 date:   2015-11-11 06:04:29 -0400
-categories: C#
+categories: csharp
 ---
 So C# 6 has been out for some time now but I haven't used it till recently when we switched to visual studio 2015 at work. I had read about all the features, but you can't know how awesome the are until you start using them.
 
