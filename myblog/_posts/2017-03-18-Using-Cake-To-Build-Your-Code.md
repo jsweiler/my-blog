@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Using Cake (C# Make) To Build Your Code"
+title:  "Using Cake To Build Your Code"
 date:   2017-03-18 06:04:29 -0400
-categories: cake c# make
+categories: cake
 ---
 #### What is Cake?
 This is what their [website says](http://cakebuild.net/).
