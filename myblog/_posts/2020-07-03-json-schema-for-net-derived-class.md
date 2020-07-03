@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: post
 title:  "Json Schema Example For .Net Derived Types"
 date:   2020-07-03 06:04:29 -0400
 categories: json schema
---- -->
+---
 If you have ever worked with json you probably have needed to validate it to make sure it is structured properly for your application to understand. I recently had to validate some json where the object had an array of items and those items each derived from a base class. I'll describe how I made a json schema file and then how to validate it using [Newtonsoft's Json schema library](https://www.newtonsoft.com/jsonschema).
 
 For information about json schema be sure to check out the official site [here](https://json-schema.org/).
