@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I've been a software developer since 2013. I started working on Windows Forms desktop applications, then moved on to WPF applications. I have since been working mostly in ASP.NET Core backend with some occasional workin in Angular. I have a lot of experience using various Azure resources from Service Bus to Azure storage to Azure App Services and love to learn new things. While I mostly work in the .NET space I occasionally do some things in Python or some other language just to learn some more.
