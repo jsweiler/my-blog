@@ -24,4 +24,4 @@ You can use the [Azure Storage Explorer](https://azure.microsoft.com/en-us/featu
 Now you have your CosmosDB service set up and are ready to do amazing things.
 
 ![Image ](/assets/images/2023-01-06 15_04_46-GitDemo.png)
-<img src="{{site.baseurl | prepend: site.url}}assets/images/2023-01-06 15_04_46-GitDemo.png" alt="Untitled" />
+<img src="{{site.baseurl | prepend: site.url}}/assets/images/2023-01-06 15_04_46-GitDemo.png" alt="Untitled" />
