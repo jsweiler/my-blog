@@ -4,6 +4,9 @@ title:  "How To Change Git Commit Author"
 date:   2023-01-06 06:04:29 -0400
 categories: git
 ---
+
+## How to change a git commit author
+
 Have you ever commited code and later realized that your email or name was not correct? 
 I recently discovered you can do this (and more things) using the interactive rebase feature of Git. 
 
@@ -29,7 +32,7 @@ What you need to do is find the last good commit id from history and copy that. 
 
 Then you will want to run this command.
 ```
-git rebase - i -p <previous-commit-id>
+git rebase -i -p <previous-commit-id>
 ```
 
 If you set your git config editor to VS Code you should see a window pop up now.
