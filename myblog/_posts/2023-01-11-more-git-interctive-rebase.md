@@ -43,7 +43,7 @@ git rebase -i -p <previousCommitID>
 ```
 
 You should see something like this in your editor.
-![](/assets/images/2023-01-11 15_46_40-git-rebase-todo)
+![](/assets/images/2023-01-11 15_46_40-git-rebase-todo.png)
 
 Find the ones you want to change the commit message and change pick to reword. Save your editor and close it. Then for each reword it will re-open your editor and allow you to change the message. Save and close it when done.
 
