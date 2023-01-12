@@ -22,3 +22,5 @@ You can also create a CosmosDB with the Azure cli. [Here](https://docs.microsoft
 You can use the [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) to interact with your new CosmosDB service. Just connect you Azure account and you will be able to see the CosmosDB you just created and can add tables right from there.
 
 Now you have your CosmosDB service set up and are ready to do amazing things.
+
+
