@@ -2,7 +2,7 @@
 layout: post
 title:  "trying out avalonia"
 date:   2023-03-01 06:04:29 -0400
-categories: azure
+categories: avalonia
 ---
 
 ###A simple overview of what Avalonia is.
