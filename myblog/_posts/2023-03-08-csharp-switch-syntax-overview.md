@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "charp switch syntax overview"
+title:  "c# switch syntax overview"
 date:   2023-03-06 06:04:29 -0400
 categories: csharp
 ---

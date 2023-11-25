@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "csharp quick tip - string fixed length"
+title:  "c# quick tip - string fixed length"
 date:   2023-03-03 06:04:29 -0400
 categories: csharp
 ---

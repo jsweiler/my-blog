@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "csharp overview of records"
+title:  "c# overview of records"
 date:   2023-03-06 06:04:29 -0400
 categories: csharp
 ---
